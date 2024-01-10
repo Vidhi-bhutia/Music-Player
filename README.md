@@ -1,1 +1,1 @@
-# Music-Player
+This Python-based Music Player Application offers a simple yet functional interface for playing, pausing, and controlling music tracks. Developed using Python's tkinter and pygame libraries, it allows users to select and play .mp3 audio files, adjust volume levels, and manage playback seamlessly. Whether you're a beginner exploring GUI development or seeking a customizable music player, this application provides an easy-to-use platform for enjoying your favorite tunes.
